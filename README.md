@@ -1,4 +1,6 @@
 📌 Checkpoint 4 - Banco de Dados
+
+
 Este projeto faz parte do Checkpoint 4 da disciplina de Banco de Dados, cujo objetivo principal é o desenvolvimento de um modelo estrela em Oracle SQL. O projeto contempla a criação de tabelas dimensionais e fato, procedures para carregamento e tratamento dos dados, além de triggers de auditoria.
 
 ---
